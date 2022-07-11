@@ -1,0 +1,2 @@
+# guess-the-number-user
+This is a simple game that is usually played.In this game the user is given a range from 1 to some number and the user has to guess the number the computer has choosen. If user guesses it right then it displays congratulations and when user guesses a wrong number then the computer says hint for the user to guess the number again like you ahve choosen very high number or you have choosen very low number. By this clues the user can guess the number the computer has choosen.
